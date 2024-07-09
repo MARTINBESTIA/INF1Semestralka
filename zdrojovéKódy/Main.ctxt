@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Trieda\ obsahuje\ iba\ met\u00F3du\ main\ ktor\u00E1\ spav\u00FD\ in\u0161tanciu\ GameControlleru,\ ktor\u00FD\ spravuje\ beh\ hry.\r\n\ \r\n\ @author\ Martin\ \u0160imko\ \r\n\ @version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Spust\u00ED\ hru.\r\n
+numComments=2

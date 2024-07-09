@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment0.text=\r\n\ Trieda\ sa\ star\u00E1\ o\ zobrazovanie\ celkovej\ materi\u00E1lovej\ v\u00FDhody,\ zobrazovanie\ ktor\u00E1\ strana\ je\ na\ \u0165ahu\ a\ zobrazuje\ tla\u010Didlo\ hra\u0165\ znovu\r\n\ \r\n\ @author\ Martin\ \u0160imko\r\n\ @version\ 1.0.0\r\n
+comment1.params=gameController
+comment1.target=GamePanel(GameController)
+comment1.text=\r\n\ Inicializuje\ a\ zobraz\u00ED\ v\u0161etky\ texty\ a\ grafiku.\r\n\ @param\ gameController\ referencia\ na\ GameController\r\n
+comment2.params=
+comment2.target=void\ zobrazStranuNaTahu()
+comment2.text=\r\n\ Na\ z\u00E1klade\ toho,\ ktor\u00E1\ strana\ je\ na\ \u0165ahu\ zmen\u00ED\ a\ vykresl\u00ED\ text\ ktor\u00E1\ strana\ je\ na\ \u0165ahu\r\n
+comment3.params=
+comment3.target=void\ zobrazMaterialDiff()
+comment3.text=\r\n\ Na\ z\u00E1klade\ toho,\ ak\u00FD\ je\ celkov\u00E1\ hodnota\ metri\u00E1lu\ str\u00E1n,\ sa\ vypo\u010D\u00EDta\ a\ zobraz\u00ED\ ktor\u00E1\ strana\ m\u00E1\ materi\u00E1lov\u00FA\ v\u00FDhodu\r\n
+numComments=4

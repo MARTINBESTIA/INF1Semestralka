@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Kralovna
+comment0.text=\r\n\ Upravuje\ met\u00F3dy\ z\ triedy\ Figurka,\ aby\ sa\ in\u0161tancia\ chovala\ ako\ Kr\u00E1\u013Eovn\u00E1.\ Navy\u0161e\ zodpoved\u00E1\ za\ vykres\u013Eovanie\ obr\u00E1zku\ na\ pl\u00E1tno.\r\n\ \r\n\ @author\ Martin\ \u0160imko\r\n\ @version\ 1.0.0\r\n
+comment1.params=povodnePolicko\ gameController
+comment1.target=Kralovna(Policko,\ GameController)
+comment1.text=\r\n\ \ \ Sl\u00FA\u017Ei\ na\ nastavenie\ materi\u00E1lovej\ hodnoty\ pr\u00EDslu\u0161nej\ fig\u00FArke,\ prirad\u00ED\ sa\ referencia\ na\ gameController\ a\ na\ pol\u00ED\u010Dko,\ kde\ sa\ figurka\ na\ za\u010Diatku\ hry\r\n\ \ \ p\u00F4vodne\ nach\u00E1dza.\ Pod\u013Ea\ poz\u00EDcie\ sa\ nastav\u00ED\ farba\ figurky\ a\ obrazok\ figurky\ sa\ vykresl\u00ED\ na\ pl\u00E1tno.\r\n\ \ \ @param\ povodnePolicko\ pol\u00ED\u010Dko,\ kde\ sa\ fig\u00FArka\ nach\u00E1dza\ na\ za\u010Diatku\ hry\r\n\ \ \ @param\ gameController\ referencia\ na\ gameController\r\n
+comment2.params=povodnePolicko\ gameController\ farbaJeBiela
+comment2.target=Kralovna(Policko,\ GameController,\ boolean)
+comment2.text=\r\n\ \ \ Sl\u00FA\u017Ei\ na\ nastavenie\ materi\u00E1lovej\ hodnoty\ pr\u00EDslu\u0161nej\ fig\u00FArke,\ prirad\u00ED\ sa\ referencia\ na\ gameController\ a\ na\ pol\u00ED\u010Dko,\ kde\ sa\ figurka\ na\ za\u010Diatku\ hry\r\n\ \ \ p\u00F4vodne\ nach\u00E1dza.\ Farba\ fig\u00FAriek\ sa\ priradzuje\ pod\u013Ea\ form\u00E1lneho\ parametra\ farbaJeBiela.\ \r\n\ \ \ @param\ povodnePolicko\ pol\u00ED\u010Dko,\ kde\ sa\ fig\u00FArka\ nach\u00E1dza\ na\ za\u010Diatku\ hry\r\n\ \ \ @param\ gameController\ referencia\ na\ gameController\r\n\ \ \ @param\ farbaJeBiela\ true\ \=\ biela\ farba,\ false\ \=\ \u010Dierna\ farba.\r\n
+comment3.params=
+comment3.target=vygenerujMozneTahy()
+comment3.text=\r\n\ vygeneruje\ a\ vr\u00E1ti\ v\u0161etky\ mo\u017En\u00E9\ \u0165ahy\ konkr\u00E9tnej\ fig\u00FArky.\ \r\n
+comment4.params=
+comment4.target=vygenerujOhrozenePolicka()
+comment4.text=\r\n\ Vygeneruje\ a\ vr\u00E1ti\ v\u0161etky\ pol\u00ED\u010Dka,\ ktor\u00E9\ dan\u00E1\ fig\u00FArka\ ohrozuje.\ \r\n
+comment5.params=x\ y
+comment5.target=void\ zmenPolohuObrazka(int,\ int)
+comment5.text=\r\n\ Zmen\u00ED\ polohu\ grafiky\ fig\u00FArky\ na\ pl\u00E1tne\ na\ s\u00FAradnice\ x,\ y.\ \r\n\ @param\ x\ nov\u00E1\ s\u00FAradnica\ x\ grafiky\ fig\u00FArky\r\n\ @param\ x\ nov\u00E1\ s\u00FAradnica\ y\ grafiky\ fig\u00FArky\ \r\n
+comment6.params=
+comment6.target=void\ vyhodFigurku()
+comment6.text=\r\n\ Vyma\u017Ee\ obr\u00E1zok\ figurky\ z\ pl\u00E1tna.\ \r\n
+numComments=7
